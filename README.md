@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects involving [cancer communication](https://www.cancer.gov/about-cancer/coping/adjusting-to-cancer/communication-pdq).
 - 📫 How to reach me on X: https://x.com/KyleHeatherly
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm listed in the IMDB for voice acting on the videogame Battlefield 3: https://www.imdb.com/name/nm4745781/
+- ⚡ Fun fact: I'm listed in the [IMDB](https://www.imdb.com/name/nm4745781/) for voice acting on the videogame Battlefield 3.
 
 <!---
 kyleh3/kyleh3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
